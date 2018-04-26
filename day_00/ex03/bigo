@@ -1,0 +1,2 @@
+O(1)-O(n) time depending on collisions
+O(n) for the hash table
